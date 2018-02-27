@@ -1,11 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+div {
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 15px;
+}
 
 .contact {
   padding-top: 10px;
+  text-align: center;
+  border-style: dashed;
+  border-color: green;
 }
 
 p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'VT323', monospace;
+  font-size: 170%;
+  color: green;
 }
 
 .name {
@@ -14,4 +26,8 @@ p {
 
 .email {
   font-weight: bold;
+}
+
+body {
+  background-color: black;
 }
