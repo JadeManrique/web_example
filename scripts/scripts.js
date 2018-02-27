@@ -4,7 +4,10 @@ var names = [
   "Nick Lawlor",
   "Dante Mills",
   "Kieran Strachan",
-  "George Carlin"
+  "George Carlin",
+  "Bill Hicks",
+  "Dave Chapelle",
+  "Mother Mary"
 ];
 
 var emails = [
@@ -13,7 +16,10 @@ var emails = [
   "smolman@gmail.com",
   "d.mills@gmail.com",
   "k.strachan@gmail.com",
-  "georgecarlin@yahoo.com"
+  "georgecarlin@yahoo.com",
+  "b.hicks@gmail.com",
+  "d.chapelle@yahoo.com",
+  "xXemoforlife420Xx@crackers.com"
 ];
 
 for (var i = 0; i < names.length; i++) {
@@ -22,3 +28,9 @@ for (var i = 0; i < names.length; i++) {
 
   document.getElementById("text").insertAdjacentHTML('beforeend', html);
 }
+
+var person = {
+  firstName: "Jade",
+  lastName: "Manrique",
+  email: "jade.a.manrique"
+};
