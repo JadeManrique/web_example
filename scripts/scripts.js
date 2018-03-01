@@ -1,9 +1,9 @@
 var names = [
-  "Alex Gibbons",
-  "Ryan Turner",
-  "Nick Lawlor",
-  "Dante Mills",
-  "Kieran Strachan",
+  "Barack Obama",
+  "Bob Hills",
+  "Macy Collins",
+  "Donald Trump",
+  "Colonel Sanders",
   "George Carlin",
   "Bill Hicks",
   "Dave Chapelle",
@@ -11,11 +11,11 @@ var names = [
 ];
 
 var emails = [
-  "a.gibbons@gmail.com",
-  "r.turner@gmail.com",
-  "smolman@gmail.com",
-  "d.mills@gmail.com",
-  "k.strachan@gmail.com",
+  "phatcock420@whitehouse.gov",
+  "b.hills@yahoo.com",
+  "macyiscool69@gmail.com",
+  "smolsadpepenbols@gayboyclub.org",
+  "chickenboy@hung.com",
   "georgecarlin@yahoo.com",
   "b.hicks@gmail.com",
   "d.chapelle@yahoo.com",
